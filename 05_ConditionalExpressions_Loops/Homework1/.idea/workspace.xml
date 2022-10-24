@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb824b8e-f455-4d14-89c1-4d403a0f5218" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/build-history1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/buildOutputCleanup1.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/executionHistory1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/executionHistory1.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/file-system1.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/file-to-id.tab.values1.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/file-to-id1.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/fileHashes1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/fileHashes1.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/id-to-file.tab.values1.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/id-to-file1.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/internal-name-to-source.tab.values1.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/internal-name-to-source1.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/last-build1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/lookups.tab.values1.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/lookups1.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/package-parts.tab.values1.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/package-parts1.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/proto.tab.values1.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/proto1.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/source-to-classes.tab.values1.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/source-to-classes1.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/source-to-output.tab.values1.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02_[Changes]/source-to-output1.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2022_21_02__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/classes/kotlin/main/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/classes/kotlin/main/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/build/kotlin/compileKotlin/local-state/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_Functions/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_Functions/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GbKXtacR0zNRxwugWdqdcYpxll" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb824b8e-f455-4d14-89c1-4d403a0f5218" name="Changes" comment="" />
+      <created>1666651887368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666651887368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
