@@ -1,11 +1,10 @@
 
-fun main (){
+fun main () {
     val text =""""F2p)v"y233{0->c}ttelciFc"""
     val text1:String= text.substring(0,12)
     val text2:String= text.substring(12,24)
     println(decor2(text2) + decor1(text1))
-
-}
+    }
 
 fun decor1(text:String) {
     val first = text.map { char -> char + 1 }.joinToString("")
