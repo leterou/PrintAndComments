@@ -1,28 +1,21 @@
 fun main() {
     println("Enter Fibo number")
-    val go = readLine()?.toIntOrNull() ?: return
-    fibloop(go)
+    val n = readLine()?.toIntOrNull() ?: return
+    fibloop(n)
 }
 
 fun fibloop(n: Int): Int {
-    var firstnum = 0
+    var firstnum = -1
     var secondnum = 1
-    var fibonachi = 0
-    if (n <= 1) return 0
-    if (n == 2) return 1
+    var i =0
+    var fibonachi: Int
 
-    for (j in 3..n) {
-
-        fibonachi = firstnum + secondnum
-        firstnum = secondnum
-        secondnum = fibonachi
-
-        if (j == n) {
-            return fibonachi
-        }
-        println("$fibonachi")
+    while (i<n-2){
+    fibonachi=firstnum+secondnum
+        firstnum=secondnum
+        secondnum=fibonachi
+        i++
+        println("Значение: $secondnum" )
     }
-
-    return fibonachi
-
+    return secondnum
 }
