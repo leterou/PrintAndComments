@@ -3,19 +3,18 @@ fun main() {
     val n = readLine()?.toIntOrNull() ?: return
     fibloop(n)
 }
-
 fun fibloop(n: Int): Int {
-    var firstnum = -1
-    var secondnum = 1
+    var firstnum = 1
+    var secondnum = 0
     var i =0
     var fibonachi: Int
 
-    while (i<n-2){
+    while (i<=n-1){
     fibonachi=firstnum+secondnum
         firstnum=secondnum
         secondnum=fibonachi
         i++
-        println("Значение: $secondnum" )
+        println("Значение $i: $secondnum" )
     }
     return secondnum
 }
