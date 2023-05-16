@@ -5,7 +5,7 @@ fun main() {
     var weight = 102.2f
     var isChild =
         height < 140.0 && weight < 40.0f
-    var info: String =
+    var info =
         firstName + ", " +
                 lastName + ", " +
                 "$height" + ", " +
