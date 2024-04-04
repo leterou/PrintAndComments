@@ -2,7 +2,7 @@ fun main(args: Array<String>) {
 
     println("Hello")
     println("Kotlin!")
-    //print("Hello")
+    print("Hello")
     /*
     print("Kotlin")
     */
