@@ -1,13 +1,10 @@
 fun main(args: Array<String>) {
-    /*
-    * Many
-    * String
-    */
-    println("Hello!")
-    //println("Kotlin!")
-    // One string
+    println("Hello World!")
     print("Hello")
-    print("Kotlin!")
+    print("ME") // One
 
-
+    /*
+    RFIFIFIFI
+    dsfds
+     */
 }
