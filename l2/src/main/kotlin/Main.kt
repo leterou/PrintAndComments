@@ -1,10 +1,12 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
-    print("Hello")
-    print("ME") // One
-
+    print("Alexandr ") //Name
+    println("Mikhaylovskiy") //Surename
+    println("From Kaliningrad") //From
+    print("35 ")
+    println("y.o")
+    println("Analyst")
+    //print("Experience - 10 years")
     /*
-    RFIFIFIFI
-    dsfdsffff
+    print("Other information")
      */
 }
